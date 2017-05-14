@@ -28,3 +28,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Galactic-Trail/Library/CurrentLayout\.dwlt
+
+Galactic-Trail/Library/
+
+Galactic-Trail/Temp/
+
+Galactic-Trail/Builds/
+Galactic-Trail/ProjectSettings/ProjectSettings.asset
